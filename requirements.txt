@@ -1,0 +1,11 @@
+cachetools==5.5.0
+colorama==0.4.6
+deprecation==2.1.0
+grpcio==1.66.2
+packaging==24.1
+protobuf==4.25.5
+python-dateutil==2.9.0.post0
+six==1.16.0
+tinkoff==0.1.1
+tinkoff-investments==0.2.0b106
+tqdm==4.66.5
