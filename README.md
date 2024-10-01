@@ -1,4 +1,4 @@
-# Trade-Turnover-FIGI-Search
+# Trade-Turnover-FIGI-Search-Tinkoff
 <p align="center">
   <img src="https://raw.githubusercontent.com/serctn/Trade-Turnover-FIGI-Search/refs/heads/main/icon.ico" alt="Program Icon">
 </p>
