@@ -17,11 +17,13 @@
 
 ---
 
-### Использование
+## Использование
 
 Если у вас **Windows 64-бита**, вы можете скачать и запустить готовую сборку:
 
 - [Скачать .exe файл](https://github.com/serctn/Trade-Turnover-FIGI-Search/releases/download/Trade-Turnover-FIGI-Search/TradeTurnover.FIGI.Search-x64.exe)
+
+- [Проверка на VirusTotal](https://www.virustotal.com/gui/file/d7b6271fb3020cb16c4ca8d05eda9c5c355bb1b87a6635a9b4b835e53dcc144a)
 
 После загрузки просто запустите **.exe файл**, и программа начнёт работу.
 
