@@ -41,8 +41,8 @@
    
    Откройте командную строку или терминал и выполните следующие команды:
    ```bash
-   git clone https://github.com/PlyMxt/Trade-Turnover-FIGI-Search.git
-   cd Trade-Turnover-FIGI-Search
+   git clone https://github.com/PlyMxt/Trade-Turnover-FIGI-Search-Tinkoff.git
+   cd Trade-Turnover-FIGI-Search-Tinkoff
    pip install -r requirements.txt
    ```
 
